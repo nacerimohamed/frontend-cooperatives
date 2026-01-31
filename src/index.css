@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 font-sans antialiased;
+    display: block;
+    /* Override default flex */
+    min-width: 0;
+    /* Remove min-width */
+    margin: 0;
+    width: 100%;
+  }
+
+  #root {
+    width: 100%;
+  }
+}
