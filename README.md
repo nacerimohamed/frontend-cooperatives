@@ -6,7 +6,7 @@ Frontend Cooperatives is a modern **React + Vite** web application designed to d
 
 
 
-![Description](fr.png)
+![Description](fr.PNG)
 ---
 
 ## 📖 About The Project
