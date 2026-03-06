@@ -4,6 +4,9 @@ Frontend Cooperatives is a modern **React + Vite** web application designed to d
 
 🔗 **Live Demo:** https://frontend-cooperatives.vercel.app  
 
+
+
+![Description](fr.png)
 ---
 
 ## 📖 About The Project
